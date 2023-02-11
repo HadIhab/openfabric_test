@@ -1,0 +1,11 @@
+I am writing this report to provide a brief overview of the work that I recently carried out.
+The project involved building an NLP chatbot,  I used Flask, which implements the REST API protocol.
+Throughout the development process, I tried my best to follow industry standards and practices to ensure the server's functionality and performance.
+In addition to the basic REST API implementation, I also performed a fine-tuning task on the BERT model architecture using the Huggingface transformers code.
+While working on this project, I had the opportunity to learn and apply my skills, which was a great experience for me.
+However, I understand that there is always room for improvement and there may be aspects of my work that can be further optimized.
+Working on this project was a great challenge, and I learned a lot throughout the process. I am particularly proud of my achievements as this project allowed me to apply my skills and knowledge in a real-world scenario.
+Furthermore, this work has provided me with motivation to continue exploring and developing my skills further.
+In conclusion, I hope that my modest efforts on this project are deemed valuable and worthy of consideration. I am always eager to learn and grow, and I look forward to the opportunity to work on similar projects in the future.
+
+Thank you for taking the time to review my work.
